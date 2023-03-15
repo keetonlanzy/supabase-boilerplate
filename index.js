@@ -18,3 +18,9 @@ async function getBooks() {
 }
 
 getBooks();
+
+/* 
+Note: I misunderstood the previous lab and did not make a table and kept the items 
+in list form. I used your code here to make it into a table and now understant how
+it is done.
+*/
